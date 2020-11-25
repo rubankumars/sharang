@@ -1,1 +1,2 @@
-this is my firt file and line# 1
+this is my first file and line# 1 updated from feature branch
+this is my first file and line# 2 updated from feature branch
